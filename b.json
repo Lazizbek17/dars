@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "Descriptions": "Kelsangiz oberaman",
+        "User_id": 2,
+        "TimeFormat": "2023-12-15 13:03"
+    },
+    {
+        "Id": 2,
+        "Descriptions": "Maqtanishmasu bugun shashlik yedim",
+        "User_id": 2,
+        "TimeFormat": "2023-12-15 13:03"
+    },
+    {
+        "Id": 3,
+        "Descriptions": "Ijodizga omad",
+        "User_id": 3,
+        "TimeFormat": "2023-12-15 13:03"
+    },
+    {
+        "Id": 4,
+        "Descriptions": "Mangachi. Faqat o'ziz yedizmi?",
+        "User_id": 4,
+        "TimeFormat": "2023-12-15 13:03"
+    },
+    {
+        "Id": 5,
+        "Descriptions": "Vazifalarni qachonga qilasizlar akalar? Keyingi darsda vazifa qilmaganlar turib eshitadi...",
+        "User_id": 1,
+        "TimeFormat": "2023-12-15 19:55"
+    },
+    {
+        "Id": 6,
+        "Descriptions": "Vazifalarni qachonga qilasizlar akalar? Keyingi darsda vazifa qilmaganlar turib eshitadi...",
+        "User_id": 1,
+        "TimeFormat": "2023-12-15 21:14"
+    },
+    {
+        "Id": 7,
+        "Descriptions": "Xullas hayo bo'lmasa xoxlaganingni qil",
+        "User_id": 1,
+        "TimeFormat": "2023-12-15 21:18"
+    },
+    {
+        "Id": 8,
+        "Descriptions": "Jon kechmasang janona qayda",
+        "User_id": 1,
+        "TimeFormat": "2023-12-15 21:29"
+    },
+    {
+        "Id": 9,
+        "Descriptions": "Musibatlar insonni fikrlashini oshiradi",
+        "User_id": 1,
+        "TimeFormat": "2023-12-15 21:29"
+    },
+    {
+        "Id": 10,
+        "Descriptions": "Kuch birlikdami hali ham?",
+        "User_id": 1,
+        "TimeFormat": "2023-12-15 21:29"
+    }
+]
